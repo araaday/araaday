@@ -25,3 +25,5 @@
 ## 📅 Contribution Heatmap
 
 ![GitHub Contribution Grid](https://ghchart.rshah.org/araaday)
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/39d353/araaday)
