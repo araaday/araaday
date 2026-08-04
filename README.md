@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-## 🐍 Contribution Snake
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -16,14 +14,5 @@
     src="https://raw.githubusercontent.com/araaday/araaday/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
-## 🐍 Contribution Snake
-
-![Snake](https://raw.githubusercontent.com/araaday/araaday/output/github-contribution-grid-snake.svg)
-
-
-## 📅 Contribution Heatmap
-
-![GitHub Contribution Grid](https://ghchart.rshah.org/araaday)
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/39d353/araaday)
