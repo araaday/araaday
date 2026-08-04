@@ -20,3 +20,8 @@
 ## 🐍 Contribution Snake
 
 ![Snake](https://raw.githubusercontent.com/araaday/araaday/output/github-contribution-grid-snake.svg)
+
+
+## 📅 Contribution Heatmap
+
+![GitHub Contribution Grid](https://ghchart.rshah.org/araaday)
